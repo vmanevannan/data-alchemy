@@ -24,4 +24,13 @@ A repository dedicated to mastering essential data manipulation techniques using
 4. Merge Sort
 5. Bubble Sort
 6. Heap Sort
-- Dynamic Programming
+
+### Dynamic Programming
+1. Lowest Common Subsequence.
+2. Minimum Edit Distance.
+3. 0-1 Knapsack.
+4. Unbounded Knapsack
+5. Coin Exchange Problem 
+6. Inventory Problem.
+7. Travelling Salesman
+8. 
