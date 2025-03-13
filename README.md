@@ -33,4 +33,8 @@ A repository dedicated to mastering essential data manipulation techniques using
 5. Coin Exchange Problem 
 6. Inventory Problem.
 7. Travelling Salesman
-8. 
+8. Optimal Investment
+
+### Recursion
+### Divide Conquer
+### Greedy Algorithms.
