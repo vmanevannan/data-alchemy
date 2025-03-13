@@ -15,4 +15,10 @@ A repository dedicated to mastering essential data manipulation techniques using
 - Linked List
 - Trees
 - Sorting and Searching
+-   1. Insertion Sort
+    2. Selection Sort
+    3. Quick Sort
+    4. Merge Sort
+    5. Bubble Sort
+    6. Heap Sort
 - Dynamic Programming
