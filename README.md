@@ -46,4 +46,44 @@ A repository dedicated to mastering essential data manipulation techniques using
 
 
 ### Deep Learning
-#### 
+#### Recurrent Neural Networks
+1. Use of RNN in time series data.
+2. Vanishing/Exploding Gradients
+3. LSTM
+4. GRU
+
+#### Generative Models
+1. GANs
+2. Variational Autoencoders.
+
+#### Transfer Learning
+1. Fine tuning pre-trained models
+
+#### Attention Mechanism
+1. Self Attention
+2. Transformers
+3. BERT
+
+#### Capsule Network
+
+#### Graph Neural Networks
+
+#### Neural Architecture Search
+
+#### Explainable AI
+
+#### Advanced Optimization techniques
+
+#### Attention and Transformers in Computer Vision
+
+#### NLP and Transformers
+
+#### Few-shot and Zero-shot learning
+
+#### Advanced topics in CNN
+
+#### Multimodal Learning
+
+
+
+
