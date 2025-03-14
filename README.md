@@ -10,14 +10,14 @@ A repository dedicated to mastering essential data manipulation techniques using
 - Window Functions (for TRENDS ,SEASONALITY, RESIDUALS and ANOMALY detection)
 
 ### Data Structures (using Python)
-- Arrays
-- Strings
-- Linked List
-- Trees
-
+1. Arrays
+2. Strings
+3. Linked List
+4. Trees (Current)
+5. Graphs (Current)
 
 ### Sorting and Searching
-#### Sorting
+#### Sorting (Almost there)
 1. Insertion Sort 
 2. Selection Sort 
 3. Quick Sort 
@@ -37,4 +37,9 @@ A repository dedicated to mastering essential data manipulation techniques using
 
 ### Recursion
 ### Divide Conquer
-### Greedy Algorithms.
+
+### Greedy Algorithms (Finish before March) 
+1. Huffman Coding
+2. Prim's Algorithm
+3. Kruskal's Algorithm
+4. Dijkstra's Algorithm
