@@ -40,9 +40,20 @@ A repository dedicated to mastering essential data manipulation techniques using
 
 ### Greedy Algorithms (Finish before March) 
 1. Huffman Coding
-2. Prim's Algorithm
-3. Kruskal's Algorithm
-4. Dijkstra's Algorithm
+
+
+### Graph Algorithms.
+1. Breadth First Search
+2. Depth First Search
+1. Bellman-Ford
+1. Floyd-Warshal 
+1. Prim's Algorithm
+1. Dijkstra's Algorithm
+1. Kruskal's Algorithm
+2. Floyd Warshall Algorithm
+1. Topological Sort
+2. Kahn Algorithm
+3. Tarjan Sort 
 
 
 ### Deep Learning
