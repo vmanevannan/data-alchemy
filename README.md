@@ -34,7 +34,9 @@ A repository dedicated to mastering essential data manipulation techniques using
 6. Inventory Problem.
 7. Travelling Salesman
 8. Optimal Investment
+9. Optimal Binary Search Tree
 
+    
 ### Recursion
 ### Divide Conquer
 
